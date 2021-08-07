@@ -7,8 +7,7 @@
 - [Text Sentiment Classification](#Text-Sentiment-Classification)
 <br>
 
-# Wine Quality Prediction
-
+# Wine Quality Prediction (2021.04)
 ## Data
 - UCL ML DATA 저장소 - http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
 ## Description
@@ -17,8 +16,7 @@
 - matplot을 이용하여 시각화한다.
 <br>
 
-# Titanic Data Analysis
-
+# Titanic Data Analysis (2020.05)
 ## Data
 - seaborn dataset
 ## Description
@@ -68,8 +66,7 @@
   - Third class에서 전 연령층은 사망률이 생존율보다 높다.
 
 
-# Text-Sentiment-Classification
-
+# Text-Sentiment-Classification (2021.7)
 ## 2021 Brno Team Project - Team no.03 <br>
 ## Outline
  To utilize the Text Sentiment Classification, an analysis of movie review data (evaluation score + content of evaluation) is conducted. The movie reviews are classified into 5 categories (very negative, negative, neutral, positive, and very positive) and compared to the score (0-5.) and analyzed. This aims to predict scores by creating an emotional classification prediction model. The dataset used Stanford Sentiment Treebank (SST-5). SST-5 consists of 11,855 sentences extracted from movie reviews with fine-grained sentiment labels [1–5], as well as 215,154 phrases that compose each sentence in the dataset.
