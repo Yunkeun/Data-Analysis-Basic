@@ -1,6 +1,10 @@
 # Text-Sentiment-Classifiaction
 <br>
-## 2021 Brno Team Project - Team no.03 <br>
+
+## 2021 Brno Team Project - Team no.03 
+
+<br>
+
 ## Outline
  To utilize the Text Sentiment Classification, an analysis of movie review data (evaluation score + content of evaluation) is conducted. The movie reviews are classified into 5 categories (very negative, negative, neutral, positive, and very positive) and compared to the score (0-5.) and analyzed. This aims to predict scores by creating an emotional classification prediction model. The dataset used Stanford Sentiment Treebank (SST-5). SST-5 consists of 11,855 sentences extracted from movie reviews with fine-grained sentiment labels [1–5], as well as 215,154 phrases that compose each sentence in the dataset.
 <br>
