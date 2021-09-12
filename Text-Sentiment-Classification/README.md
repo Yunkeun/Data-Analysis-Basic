@@ -1,6 +1,4 @@
 # Text-Sentiment-Classifiaction
-<br>
-
 ## 2021 Brno Team Project - Team no.03 
 
 <br>
